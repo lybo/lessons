@@ -13,3 +13,9 @@
 
 # React app
 * [create react app](https://github.com/facebook/create-react-app)
+
+# iterm2
+https://www.iterm2.com/
+
+# React App Init
+* lesson1/my-app/>  yarn start
