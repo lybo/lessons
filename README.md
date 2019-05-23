@@ -19,3 +19,7 @@ https://www.iterm2.com/
 
 # React App Init
 * lesson1/my-app/>  yarn start
+
+
+# sigmajs react
+https://www.npmjs.com/package/react-sigma
